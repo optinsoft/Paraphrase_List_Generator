@@ -1,5 +1,5 @@
-phrases.txt
-sentences.txt
+phrases.*
+sentences.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
